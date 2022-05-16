@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-appliction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.singleThread.js",
+  "scripts": {
+    "dev": "node pm2/http.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
